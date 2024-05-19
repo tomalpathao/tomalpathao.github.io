@@ -1,11 +1,9 @@
-[
-    {
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "com.pathaopay.user.staging",
-        "sha256_cert_fingerprints":
-          ["E9:BB:FB:05:F0:BB:48:BB:38:D0:D0:85:E9:C1:85:3A:68:B1:BB:FC:C6:47:66:53:C2:93:5D:A3:CF:23:65:9F"]
-      }
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.pathaopay.user.staging",
+      "sha256_cert_fingerprints":
+      ["5F:C0:8D:9F:17:A1:47:FD:33:0C:A5:CC:81:B9:4F:75:13:0B:44:A0:99:F3:87:C3:91:28:F9:D4:FF:C4:0B:81"]
     }
-  ]
+  }]
