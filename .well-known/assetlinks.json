@@ -1,1 +1,11 @@
-{"hello":"weblink"}
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.pathaopay.user.staging",
+        "sha256_cert_fingerprints":
+          ["E9:BB:FB:05:F0:BB:48:BB:38:D0:D0:85:E9:C1:85:3A:68:B1:BB:FC:C6:47:66:53:C2:93:5D:A3:CF:23:65:9F"]
+      }
+    }
+  ]
