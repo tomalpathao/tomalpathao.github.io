@@ -1,14 +1,13 @@
 
-
 {
     "applinks": {
         "apps": [],
-        "details": [
-            {
-                "appID": "QJKTQ4BAAK.com.pathaopay.user-qa",
-                "paths": ["*"]
+        "details": {
+            "QJKTQ4BAAK.com.pathaopay.user-qa": {
+                "paths": [
+                    "*"
+                ]
             }
-        ]
+        }
     }
 }
-
