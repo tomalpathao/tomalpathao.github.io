@@ -5,7 +5,10 @@
       "namespace": "android_app",
       "package_name": "com.pathaopay.user.staging",
       "sha256_cert_fingerprints":
-      ["E9:BB:FB:05:F0:BB:48:BB:38:D0:D0:85:E9:C1:85:3A:68:B1:BB:FC:C6:47:66:53:C2:93:5D:A3:CF:23:65:9F"]
+      [
+          "E9:BB:FB:05:F0:BB:48:BB:38:D0:D0:85:E9:C1:85:3A:68:B1:BB:FC:C6:47:66:53:C2:93:5D:A3:CF:23:65:9F",
+          "71:02:D2:0E:28:53:2B:96:B9:74:1D:1E:FA:D0:21:F9:A8:A2:01:C2:C6:1E:C9:F4:77:8D:63:DF:36:C1:34:DA"
+      ]
     }
   },
   {
@@ -14,7 +17,10 @@
       "namespace": "android_app",
       "package_name": "com.pathaopay.merchant.staging",
       "sha256_cert_fingerprints":
-      ["E9:BB:FB:05:F0:BB:48:BB:38:D0:D0:85:E9:C1:85:3A:68:B1:BB:FC:C6:47:66:53:C2:93:5D:A3:CF:23:65:9F"]
+      [
+          "E9:BB:FB:05:F0:BB:48:BB:38:D0:D0:85:E9:C1:85:3A:68:B1:BB:FC:C6:47:66:53:C2:93:5D:A3:CF:23:65:9F",
+          "71:02:D2:0E:28:53:2B:96:B9:74:1D:1E:FA:D0:21:F9:A8:A2:01:C2:C6:1E:C9:F4:77:8D:63:DF:36:C1:34:DA"
+      ]
     }
   }
 ]
